@@ -1,7 +1,7 @@
 - 👋 Hi, Gerard Cruz
 - 👀 I’m interested in UX and Photography
 - 🌱 I’m currently studying Spring Java framework and Angular
-- 📫 You can reach me through through [e-mail](gerard984@revature.net).
+- 📫 You can reach me through through [e-mail](mailto:gerard984@revature.net).
 
 <!---
 cruzgsworks/cruzgsworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
