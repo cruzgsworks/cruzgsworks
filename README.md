@@ -1,4 +1,4 @@
-- 👋 Hi, Gerard Cruz.
+- 👋 Hi, I'm Gerard Cruz.
 - 👀 I’m interested in UX and Photography.
 - 💼 In training in Revature.
 - 🌱 I’m currently studying Spring Java framework and Angular.
