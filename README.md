@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Gerard Cruz.
-- 👀 I’m interested in Full-stack development and Photography.
+- 👀 I’m interested in Hiking and Photography.
 - 💼 In training in Revature.
 - 🌱 I’m currently studying Spring Java framework and Angular.
 - 📫 You can reach me through [e-mail](mailto:gerard984@revature.net).
