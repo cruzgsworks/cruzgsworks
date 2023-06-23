@@ -1,4 +1,3 @@
 - 👋 Hi, I'm Gerard Cruz.
 - 👀 I’m interested in Hiking and Photography.
-- 💼 Currently working for Cognizant
 - 📫 You can reach me through [e-mail](mailto:gerardcruz200@gmail.com).
